@@ -2,6 +2,6 @@ const log = require('@ajar/marker')
 
 const {log_in_colors} = require('./colorful-logs')
 
-log.info('hello marker')
+log.info('hello new marker')
 
-log_in_colors();
+new_log_colors();
