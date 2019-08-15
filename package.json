@@ -1,7 +1,6 @@
 {
-  "name": "_another-git-demo",
+  "name": "another-git-demo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "@ajar/marker": "^1.2.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YarivGilad/another-gity-demp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YarivGilad/another-gity-demp/issues"
+  },
+  "homepage": "https://github.com/YarivGilad/another-gity-demp#readme",
+  "description": ""
 }
